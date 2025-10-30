@@ -66,18 +66,6 @@ Each certificate reflects my continuous learning journey and commitment to pract
 **Skills Gained:**  
 Python · HTML · CSS · JavaScript · Node.js · Express.js · REST APIs
 
----
-
-## 🧠 Cybersecurity Certifications
-
-### 🔐 Cybersecurity with CISCO Networking Academy  
-**Issuer:** CISCO Networking Academy  
-**Certificates:**  
-- [CertificateOfCompletion_Cybersecurity with CISCO.pdf](./CertificateOfCompletion_Cybersecurity%20with%20CISCO.pdf)
-
-**Highlights:**  
-- Learned key cybersecurity principles: threats, vulnerabilities, and risk mitigation.  
-- Explored network security models, cryptography, and ethical hacking basics.
 
 ---
 
